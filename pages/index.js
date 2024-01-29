@@ -25,6 +25,12 @@ export default function Home(props) {
         <li>
           <Link href="/fr/1">/fr/1</Link>
         </li>
+        <li>
+          <Link href="/fr/simple-page">/fr/simple-page</Link>
+        </li>
+        <li>
+          <Link href="/fr/simple-nested/example">/fr/simple-nested/example</Link>
+        </li>
       </ul>
     </>
   );
